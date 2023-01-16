@@ -1,0 +1,5 @@
+Definition of the C programming language -5min
+Right Mindset to learning any software engineering concept. -10min
+Installing the neccessary tools needed to learn C. -20min
+Writing our first lines of code in C. -20min
+Questions -5min
