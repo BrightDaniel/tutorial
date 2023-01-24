@@ -1,0 +1,4 @@
+{Maths function in C - 5min
+augmented assignment operators - 5min}
+getting user input in C -20min
+if statement in C -25min
