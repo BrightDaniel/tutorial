@@ -1,0 +1,8 @@
+1.Ask the user for the numbers to perform calculation with using printf.
+2. ask the user for the operator using prinf.                        
+3. store the various user inputs using scanf.                       
+4. check if user input meet with certain conditions using if statement:    
+   if user inputs +, sum a and b together and print out.
+   if user inputs -, subtract a and b together and print out.
+   if user inputs *, mul a and b together and print out.
+   if user inputs /, divide a and b together and print out.
