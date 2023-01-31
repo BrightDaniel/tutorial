@@ -1,0 +1,3 @@
+C program to enter week number and print day of week.
+Write down your thought process for your solution.
+Write the answer in a task4.c in the answer folder.
