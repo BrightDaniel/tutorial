@@ -20,7 +20,7 @@
      switch (ch) {
       // For Addition
       case '+':
-          printf("%.1lf + %.1lf = %.1lf\n", a, b, a + b);
+          printf("%.1f + %1f = %1f\n", a, b, a + b);
 	  break;
      // For Subtraction
      case '-':
