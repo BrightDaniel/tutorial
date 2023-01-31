@@ -1,0 +1,5 @@
+Constants in C -5min
+Arithemetic Operators In C - 25min
+Maths function in C - 10min
+augmented assignment operators -10min
+Fixing ubuntu issues -10min
