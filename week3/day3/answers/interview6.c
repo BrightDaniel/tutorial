@@ -1,10 +1,10 @@
 #include<stdio.h>
-int main(){
-	float me = 5.25;
-	double you = 5.25;
-	if(me == you)
-		printf("I love U");
+int main()
+{
+	int i = 5;
+	if(i = i - 5 > 4)
+		printf("inside if block");
 	else
-		break;
+		printf("inside else block");
 	return 0;
 }

@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	if(sizeof('\0'))
+	int i;
+	if(scanf("%d",&i)) //if we give input as 0
 		printf("inside if block");
 	else
 		printf("inside else block");
