@@ -1,7 +1,8 @@
 #include<stdio.h>
-int main(){
+int main()
+{
 	int i;
-	if(true)
+	if(i)
 		printf("This will work");
 	else 
 		printf("This will not work");

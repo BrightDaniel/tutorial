@@ -13,13 +13,13 @@ int main()
 	scanf("%d", &rows);
 
 	/* Iterate through rows */
-	for(i=1; i<rows; i++)
+	for(i=1; i<=rows; i++)
 	{
-		/* Print spaces in decreasing order of row */
+		 //Print spaces in decreasing order of row 
 		for(j=i; j<rows; j++)
 		{
 			printf(" ");
-		}
+		} 
 
 		/* Print star in increasing order or row */
 		for(j=1; j<=i; j++)
