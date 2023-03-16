@@ -2,8 +2,8 @@
 #include "math.h"
 
 
-int main()
+void main()
 {
 	printf("Result is : %d", math(9, 1));
-	return 0;
+	
 }
