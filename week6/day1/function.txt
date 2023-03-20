@@ -1,0 +1,19 @@
+What is functions in C?
+In c, we can divide a large program into the basic building blocks known as function. The function contains the set of programming statements enclosed by {}. A function can be called multiple times to provide reusability and modularity to the C program. In other words, we can say that the collection of functions creates a program. In short it's a Piece of code that performs a specific tasks.
+
+Why We Need Functions?
+Take an example, we want to write a code that prints out sum of 2 numbers .   You already know how to do that. However, lets say you have to display sum of two numbers 5 times. Using the first method you may need to write that code 5 times which is really long and troublesome. That can be solved with functions.
+
+Types of functions in C?
+Library Functions: are the functions which are declared in the C header files such as scanf(), printf(), gets(), puts(), ceil(), floor() etc.
+User-defined functions: are the functions which are created by the C programmer, so that he/she can use it many times.
+
+A function consist of two parts:
+
+Declaration: the function's name, return type, and parameters (if any)
+Definition: the body of the function (code to be executed)
+
+Declaration consist of 3 main things:
+	data type, or return type, name of function, and arguments or inputs.
+
+

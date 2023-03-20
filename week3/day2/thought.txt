@@ -1,0 +1,7 @@
+1. Ask for the users name and cohort.
+2. Ask for the users score.
+3. Accept only scores between 0 - 165.
+4. any score above 130, should be promoted to the next cohort.
+5. any score between 80 - 129, should continue the program.
+6. any score between 50 - 79, should be defered to the next cohort.
+7. any score lower than 50, kick out this person.
