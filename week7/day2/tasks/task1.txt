@@ -1,0 +1,3 @@
+Calculate the average score of a student in 9 subjects using arrays.
+Write down your thought process in a folder called answers in day3.
+
