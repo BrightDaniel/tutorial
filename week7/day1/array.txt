@@ -1,0 +1,55 @@
+Array = A data structure that can store many values of the same data type.
+So, it's used to store multiple values in a single variable, instead of multiple variables.
+
+Syntax of array = data-type array-name sqaure-bracket.
+To insert values, we use a curly braces then comma separated values.
+
+Difference between arrays and strings = String is an array of char. An array of individual char.
+
+Accessing the values = Each value inside an array is known as an element. To access any element, you use an index number. 
+
+If you arent sure what values you want inside an array yet, you can just specify the size only. later on you can assign values. eg1
+
+We can also change the value of an element inside the array in C. eg2
+
+Looping arrays = You can loop through the elements in an array using the for loop.
+Why on earth do we need the loop in an array?
+Imagine You want to display a single element in the array. Very simple and easy. Now imagine you want to print all the elemts in an array. And this array has 100 elements. You clearly see we need loops right. eg3
+
+We have an issue, when we update the elements, the loop becomes wrong as it wont print out everything for us again. So to fix that, we use the size of operator. eg4
+
+Advantages of arrays =
+
+Arrays make the code more optimized and clean since we can store multiple elements in a single array at once, so we do not have to write or initialize them multiple times.
+
+Every element can be traversed in an array using a single loop.
+
+Arrays make sorting much easier. Elements can be sorted by writing a few lines of code.
+
+Disadvantages of arrays in C =
+
+Accessing an array out of bounds: The first disadvantage of arrays is that they are statically allocated. This means that once their size is initialized, it can not be increased or decreased.
+
+2 dimensional arrays =
+We can say a 2d array is an array where each element is an array. Could also be called a matrix, or a data table.
+
+Syntax of the 2d array = data_type array_name[rows][columns]; 
+
+lets declare an array called numbers. eg5
+
+You must specify a maximum size of elements within each of the array. Lets say that each of these arrays would have a maximum size of 3. You must put that  in between the second sqaure brackets.
+You may or maynot set a a maximum amount of arrays or rows within the array. eg-
+
+Lets now create a 2d array without any values init.
+Down, we assign values in it. eg6
+
+
+Displaying elements of a 2d array in c =
+
+We would use nested loops.
+
+First one would keep charge of row, second loop would keep track of columns. eg7
+
+But our inital problem still arise... If we update the amount of rows and column our loop becomes outdated. So we calculate again using the size of. eg8
+
+Thats the basics of 2d arrays in C.
