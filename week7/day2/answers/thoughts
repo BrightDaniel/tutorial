@@ -1,0 +1,5 @@
+Declaration of the array of size 9 to hold 9 subject
+Declared variables to hold sum of the marks and the average
+use for loop to read the marks of the 9 subjects
+calculate the average by dividing the sum by 9
+printf statement to get average score and floating -point number %.2f is used
