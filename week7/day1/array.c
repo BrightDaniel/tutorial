@@ -8,7 +8,7 @@ int main()
 
 	for (int i = 0; i < 10; i++)
 	{
-		printf("%.2lf ", prices[i]);
+		printf("%.2lf", prices[i]);
 		printf("\n");
 	}
 
