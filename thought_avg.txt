@@ -1,0 +1,15 @@
+Thought Process for the the average score of 9 subjectts of a student
+
+(1)  Define the known and unknown variables in the question:
+	- the scores of the student
+	- the sum of the scores
+	- the average score
+
+(2) Ask user to enter their scores
+
+(3) collect and store the scores from user using for loop
+
+(4) calculate the total sum of the scores using for loop
+
+(4) calculate the average score of the student score
+
