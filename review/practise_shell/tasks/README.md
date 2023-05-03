@@ -19,61 +19,63 @@ This directory contains a series of shell scripts that were written to practice 
 13. [No More .swp Files](#13-no-more-swp-files)
 14. [Calculator in Shell](#14-calculator-in-shell)
 
-## 1. [Aliases](/aliases.sh)
+## 1. [Aliases](/review/practise_shell/tasks/aliases.sh)
 
 This script demonstrates how to use aliases in shell scripts.
 
-## 2. [Host Script](/host.sh)
+## 2. [Host Script](/review/practise_shell/tasks/host.sh)
 
 This script prints the hostname of the machine.
 
-## 3. [File Path](/file_path.sh)
+## 3. [File Path](/review/practise_shell/tasks/file_path.sh)
 
 This script prints the path of the file.
 
-## 4. [Output](/output.sh)
+## 4. [Output](/review/practise_shell/tasks/output.sh)
 
 This script prints output to the console.
 
-## 5. [I Know What File You Are](/i_know_what_file_you_are.sh)
+## 5. [I Know What File You Are](/review/practise_shell/tasks/i_know_what_file_you_are.sh)
 
 This script determines the type of a file.
 
-## 6. [Command Line in Shell](/command_line_in_shell.sh)
+## 6. [Command Line in Shell](/review/practise_shell/tasks/command_line_in_shell.sh)
 
 This script demonstrates how to pass command line arguments to a shell script.
 
-## 7. [Exit](/exit.sh)
+## 7. [Exit](/review/practise_shell/tasks/exit.sh)
 
 This script demonstrates how to exit the shell.
 
-## 8. [Hello](/hello.sh)
+## 8. [Hello](/review/practise_shell/tasks/hello.sh)
 
 This script prints a greeting based on the time of day.
 
-## 9. [Reverse](/reverse.sh)
+## 9. [Reverse](/review/practise_shell/tasks/reverse.sh)
 
 This script prints an integer or character in reverse.
 
-## 10. [Reverse String](/reverse_string.sh)
+## 10. [Reverse String](/review/practise_shell/tasks/reverse_string.sh)
 
 This script prints a string in reverse.
 
-## 11. [Reverse Using Command Line](/reverse_line.sh)
+## 11. [Reverse Using Command Line](/review/practise_shell/tasks/reverse_line.sh)
 
 This script prints a given number in reverse order.
 
-## 12. [Upper to Lower](/upper_to_lower.sh)
+## 12. [Upper to Lower](/review/practise_shell/tasks/upper_to_lower.sh)
 
 This script converts uppercase characters to lowercase.
 
-## 13. [No More .swp Files](/no_more_swp.sh)
+## 13. [No More .swp Files](/review/practise_shell/tasks/no_more_swp.sh)
 
 This script removes all .swp files in a directory.
 
-## 14. [Calculator in Shell](/calculator.sh)
+## 14. [Calculator in Shell](/review/practise_shell/tasks/calculator.sh)
 
 This script implements a basic calculator in shell.
+
+## [Back to top](#table-of-contents)
 
 ## Usage
 
