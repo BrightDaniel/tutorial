@@ -1,0 +1,28 @@
+
+#include <stdio.h>
+
+int main() {
+
+
+	int score = 70;
+	int* pScore = NULL;
+
+	pScore = &score;
+
+	printf("address of score %p\n", &score);
+	printf("address of pScore %p\n", pScore);
+
+
+	printf("Value of score %d\n", score);
+
+	printf("Value stored at the address of pScore %d\n", *pScore);
+
+	//derefrencing a pointer.
+	//
+	//
+	//
+	//
+	//
+	
+	    return 0;
+	  }

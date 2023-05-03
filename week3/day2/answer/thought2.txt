@@ -1,0 +1,23 @@
+QUESTION:
+
+write a c program to check whether a character is an alphabet or not.
+
+THOUGHT PROCESS
+
+(1) define my known and unknown variables
+	let character rep alphabets a - z
+	let alpha rep user input
+
+(2) Ask user to enter any character
+
+(3) Collect user input and check if input meets the below condition:
+
+	 if alpha > or = 'a' and alpha is < or = 'z' 
+
+(4) print you are an alphabet;and stop 
+
+	BUT if user input does not meet condition:
+
+(5) print sorry, you are not an alphabet
+ 
+	

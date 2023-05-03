@@ -1,0 +1,24 @@
+QUESTION
+Write a program to calculate profit or loss
+
+Thought Process
+
+(1) How do we calculate profit or loss
+	profit = Total income - Total expense
+
+(2) Define my  variables
+	let a = Total income
+	let b = Total expense
+
+(3) Ask user to enter total income for the month
+
+(4) collect and store user input
+
+(5) Ask user to enter total expense for the month
+
+(6) Collect and store user input and print based on the fllg conditions
+	
+	if a > b, print (Congratulations, you made profit)
+	else if a < b, print (Oops! you made loss)
+(7) Anything other than the 2 conditions above,
+		print (You neither made profit or loss) 

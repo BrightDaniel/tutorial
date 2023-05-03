@@ -1,0 +1,11 @@
+Recussion Definition:
+
+When a function calls itself, thats recussion. It's not that difficult.
+For example, remember in the main function, we call other functions we have created somewhere before. You also remember we can create other functions, imagine we created a function that is called void add(). now inside our function, we call add(), thats recussion. So that function is called recursive function. One important thing in recurssion is the terminator.
+Eg 1. to see a case of simple recussion. Lets print out the sum of a number, and the factorial of a number.
+
+Types of recussion
+
+1 Direct recussion: If a function calls itself directly, that's recussion.
+
+2 Indirect recussion:
