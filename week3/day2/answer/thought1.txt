@@ -1,0 +1,19 @@
+(1) How can a number be divisible by 4 and 13?
+	if the number is been divided by the product of 4 and 13
+	and gives a remainder of 0.
+
+(2) Define my known and unknown variables
+	- let a = 4;
+	- let b = 13;
+	- let p = product of a and b
+	- let Num = user input value.
+
+(3) prompt my user to enter a value
+
+(4) store that value and check for any of these conditions
+
+(5) if my user's input divided by the product of a and b,
+	gives a 0 remainder, then print: number is divisible 
+ 	by 4 and 13; otherwise print: number is not divisible 
+	by 4 and 13.
+(6) Stop.

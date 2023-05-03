@@ -1,0 +1,21 @@
+QUESTION 4
+Write a C program to enter week number and print day of week
+
+Thought Process:
+(1) Define known and unknown variables
+
+(2) Prompt user to enter any number between 1 and 7
+
+(3) collect and store user input and print out based on the following condition
+
+	if input == 1 (print Today is Sunday)
+	if input == 2 (print Today is Monday)
+	if input == 3 (print Today is Tuesday)
+        if input == 4 (print Today is Wednesday)
+	if input == 5 (print Today is Thursday)
+        if input == 6 (print Today is Friday)
+	else if input == 7 (print Today is Sturday)
+
+(4) Any input other than the above conditions,
+	print (Invalid option)
+

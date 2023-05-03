@@ -1,0 +1,15 @@
+Write C program to calculate percentage and grade
+
+Thought Process:
+(1) Define known and unknown variables
+(2) Ask user to enter scores for Physics,Chemistry, Biology,
+	mATHEMATICS AND cOMPUTER
+
+(3) Store user input and print according to the fllg conditions:
+
+	if user input >= 90 (print Your Grade is 'A')
+	else if input >= 80 (print Your Grade is 'B')
+	else if input >= 70 (print Your Grade is 'C')
+	else if input >= 60 (print Your Grade is 'D')
+	else if input >= 40 (print Your Grade is 'E')
+	else if input < 40 (print Your Grade is 'F')

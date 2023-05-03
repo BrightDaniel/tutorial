@@ -1,0 +1,23 @@
+	QUESTION
+Write a program to check whether a character is uppercase 
+or lower case.
+Write down your thought process for your solution
+Write the answer in task3.c answer folder.
+
+THOUGHT PROCESS
+
+(1) Define my known and unknown variables
+(2) Ask user to input any character
+(3) collect input from user and check if input meets the 
+following conditions:
+
+(a)	if (input >= 'A' and input <= 'Z')
+	print " Hurray, you are an uppercase letter"
+
+(b)	if (input >= 'a' and input <= 'z')
+	print "You are a lowercase letter"
+
+(c)	if none of the above conditions are met,
+	print " Oops! wrong input.
+
+
