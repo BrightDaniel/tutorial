@@ -19,59 +19,59 @@ This directory contains a series of shell scripts that were written to practice 
 13. [No More .swp Files](#13-no-more-swp-files)
 14. [Calculator in Shell](#14-calculator-in-shell)
 
-## 1. Aliases
+## 1. Aliases(/aliases.sh)
 
 This script demonstrates how to use aliases in shell scripts.
 
-## 2. Host Script
+## 2. Host Script(/host.sh)
 
 This script prints the hostname of the machine.
 
-## 3. File Path
+## 3. File Path(/file_path.sh)
 
 This script prints the path of the file.
 
-## 4. Output
+## 4. Output(/output.sh)
 
 This script prints output to the console.
 
-## 5. I Know What File You Are
+## 5. I Know What File You Are(/i_know_what_file_you_are.sh)
 
 This script determines the type of a file.
 
-## 6. Command Line in Shell
+## 6. Command Line in Shell(/command_line_in_shell.sh)
 
 This script demonstrates how to pass command line arguments to a shell script.
 
-## 7. Exit
+## 7. Exit(/exit.sh)
 
 This script demonstrates how to exit the shell.
 
-## 8. Hello
+## 8. Hello(/hello.sh)
 
 This script prints a greeting based on the time of day.
 
-## 9. Reverse
+## 9. Reverse(/reverse.sh)
 
 This script prints an integer or character in reverse.
 
-## 10. Reverse String
+## 10. Reverse String(/reverse_string.sh)
 
 This script prints a string in reverse.
 
-## 11. Reverse Using Command Line
+## 11. Reverse Using Command Line(/reverse_line.sh)
 
 This script prints a given number in reverse order.
 
-## 12. Upper to Lower
+## 12. Upper to Lower(/upper_to_lower.sh)
 
 This script converts uppercase characters to lowercase.
 
-## 13. No More .swp Files
+## 13. No More .swp Files(/no_more_swp.sh)
 
 This script removes all .swp files in a directory.
 
-## 14. Calculator in Shell
+## 14. Calculator in Shell(/calculator.sh)
 
 This script implements a basic calculator in shell.
 
